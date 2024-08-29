@@ -21,7 +21,7 @@ Folder Structure:
 │   └── ...
 └── ...
 
-Please download the following datasets: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip), [ScanObjectNN](https://hkust-vgd.ust.hk/scanobjectnn/h5_files.zip), and [ShapeNetCoreV2](https://cloud.tsinghua.edu.cn/f/06a3c383dc474179b97d/). 
+Please download the following datasets for the prototype memory: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip), [ScanObjectNN](https://hkust-vgd.ust.hk/scanobjectnn/h5_files.zip), and [ShapeNetCoreV2](https://cloud.tsinghua.edu.cn/f/06a3c383dc474179b97d/). 
 
 Corruption Script:
 Please follow the script from [ModelNet40C](https://github.com/jiachens/ModelNet40-C/tree/master/data) to add corruption.
