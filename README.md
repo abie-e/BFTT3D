@@ -17,8 +17,8 @@ Please follow the script from [ModelNet40C](https://github.com/jiachens/ModelNet
 For experiments on corrupted ModelNet data, the ModelNet40-C dataset can be downloaded here (https://github.com/jiachens/ModelNet40-C).
 The download link for experiments with [ScanObjectNN-C](https://drive.google.com/file/d/1PpS4oPoPA03-RWTiVp-huvhqa7jh3PbW/view?usp=sharing) is also provided.
 
-# checkpoint download
-[checkpoint] will be listed here.(https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing)
+### checkpoint download
+[checkpoint](https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing) will be listed here.
 
 Folder Structure:
 .
