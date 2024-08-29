@@ -5,6 +5,7 @@ This repository is for implementing frameworks introduced in the following paper
 <p align="center">
   <img width="900" src="https://github.com/abie-e/BFTT3D/blob/main/Figure1.png"> 
 </p>
+
 ### Installation
 Create a conda environment and install dependencies:
 ```
