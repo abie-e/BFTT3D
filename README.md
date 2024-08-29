@@ -57,6 +57,6 @@ For ModelNet40 dataset, just run:
 python run_BFTT3D_mn40.py --pth pointnet
 ```
 
-The code is not fully organized and maybe a bit cumbersome. Refactoring and finalization are underway.
+The code is not fully organized and may not look polished. Refactoring and finalization are underway.
 
 
