@@ -17,7 +17,7 @@ If this fails, please try to install the Point-NN and MATE environments one by o
 
 ### Dataset
 
-##### Folder structure
+#### Folder structure
     .
     ├── ...
     ├── datasets
@@ -30,17 +30,26 @@ If this fails, please try to install the Point-NN and MATE environments one by o
     └── ....
 
 
-Please download the following datasets for the prototype memory: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip), [ScanObjectNN](https://hkust-vgd.ust.hk/scanobjectnn/h5_files.zip), and [ShapeNetCoreV2](https://cloud.tsinghua.edu.cn/f/06a3c383dc474179b97d/). 
+Please download the following datasets for the prototype memory
 
-Corruption Script:
+[Download ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip)
+
+[Download ScanObjectNN](https://hkust-vgd.ust.hk/scanobjectnn/h5_files.zip)
+
+[Download ShapeNetCoreV2](https://cloud.tsinghua.edu.cn/f/06a3c383dc474179b97d/) 
+
+#### Corruption:
 Please follow the script from [ModelNet40-C](https://github.com/jiachens/ModelNet40-C/tree/master/data) to add corruption.
 
-For experiments on corrupted ModelNet data,
-[ModelNet40-C](https://github.com/jiachens/ModelNet40-C) can be downloaded here.
-[ScanObjectNN-C](https://drive.google.com/file/d/1PpS4oPoPA03-RWTiVp-huvhqa7jh3PbW/view?usp=sharing) is also provided.
+We also provide download links:
 
-### Checkpoint download
-[checkpoint](https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing) will be listed here.
+[Download ModelNet40-C from Google Drive.](https://drive.google.com/drive/folders/10YeQRh92r_WdL-Dnog2zQfFr03UW4qXX?usp=sharing)
+
+[Download ScanObjectNN-C from Google Drive.](https://drive.google.com/file/d/1PpS4oPoPA03-RWTiVp-huvhqa7jh3PbW/view?usp=sharing)
+
+
+#### Checkpoint:
+[checkpoint](https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing) is uploaded here.
 
 ## BFTT3D
 For ModelNet40 dataset, just run:
