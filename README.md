@@ -18,7 +18,7 @@ For experiments on corrupted ModelNet data, the ModelNet40-C dataset can be down
 The download link for experiments with [ScanObjectNN-C](https://drive.google.com/file/d/1PpS4oPoPA03-RWTiVp-huvhqa7jh3PbW/view?usp=sharing) is also provided.
 
 # checkpoint download
-[checkpoint](https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing)
+[checkpoint] will be listed here.(https://drive.google.com/drive/folders/1tD8cXVCgGwH5Q6N7PKldp3pG2_tBqxMM?usp=sharing)
 
 Folder Structure:
 .
