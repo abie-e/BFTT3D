@@ -12,14 +12,16 @@ If this fails, please try to install the PointNN and MATE environments one by on
 
 Folder Structure:
 .
+├── ...
 ├── datasets
-├── data                     
-│   ├── modelnet40_ply_hdf5_2048 
-│   ├── modelnet40_c            
-│   └── ...                 
-├── checkpoint
-│   └── ...
-└── ...
+├── data                    
+│   ├── modelnet40_ply_hdf5_2048          
+│   ├── modelnet40_c         
+│   └── ...                
+├── checkpoint                   
+│   └── ... 
+└── ....
+
 
 Please download the following datasets for the prototype memory: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip), [ScanObjectNN](https://hkust-vgd.ust.hk/scanobjectnn/h5_files.zip), and [ShapeNetCoreV2](https://cloud.tsinghua.edu.cn/f/06a3c383dc474179b97d/). 
 
